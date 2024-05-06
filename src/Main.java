@@ -270,7 +270,7 @@ public class Main {
 		
 		if(k.length() > sumaZx.size()) {
 			//Solo cogemos los primeros numeros del mensaje
-			System.out.println("FALTA POR HACER");
+			//System.out.println("FALTA POR HACER");
 		}
 		
 		
@@ -397,7 +397,8 @@ public class Main {
 		
 		if(k.length() > sumaZx.size()) {
 			//Solo cogemos los primeros numeros del mensaje
-			System.out.println("FALTA POR HACER");
+			
+			
 		}
 		
 		System.out.println("\nSUMAZX ES = ");
